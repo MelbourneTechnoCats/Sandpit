@@ -1,4 +1,4 @@
 # Sandpit
 Pre-season workshop sandpit
 
-Robot.GetInstance().killRobot();
+Robot::GetInstance().killRobot();
